@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(117): warning C4018: '>=': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(132): warning C4018: '>=': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(146): warning C4018: '>=': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\visual studio 2015\projects\cop2535\project5\project5\header.h(175): warning C4018: '<': signed/unsigned mismatch
+  Project5.vcxproj -> C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\cop2535\Project5\Debug\Project5.exe
+  Project5.vcxproj -> C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\cop2535\Project5\Debug\Project5.pdb (Full PDB)
