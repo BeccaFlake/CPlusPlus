@@ -1,0 +1,5 @@
+﻿  source.cpp
+c:\users\rebecca\documents\visual studio 2015\projects\project6\project6\source.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rebecca\documents\visual studio 2015\projects\project6\project6\source.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  project6.vcxproj -> C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\project6\Debug\project6.exe
+  project6.vcxproj -> C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\project6\Debug\project6.pdb (Full PDB)
