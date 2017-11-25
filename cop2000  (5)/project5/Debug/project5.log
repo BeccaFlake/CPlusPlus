@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  project5.cpp
+  Generating Code...
+Source.obj : error LNK2005: _main already defined in project5.obj
+C:\Users\Rebecca\documents\visual studio 2015\Projects\project5\Debug\project5.exe : fatal error LNK1169: one or more multiply defined symbols found

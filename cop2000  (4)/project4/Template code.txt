@@ -1,0 +1,14 @@
+//Rebecca Flake
+//COP2000.0M3
+//Short description of what your project will do
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	//program code goes here
+	
+	return 0;
+
+}
